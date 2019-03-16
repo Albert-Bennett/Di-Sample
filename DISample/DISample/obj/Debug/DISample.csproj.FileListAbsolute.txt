@@ -1,0 +1,6 @@
+C:\Users\Albert\Desktop\DI-Sample\DISample\DISample\bin\Debug\DISample.exe.config
+C:\Users\Albert\Desktop\DI-Sample\DISample\DISample\obj\Debug\DISample.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Desktop\DI-Sample\DISample\DISample\bin\Debug\DISample.exe
+C:\Users\Albert\Desktop\DI-Sample\DISample\DISample\bin\Debug\DISample.pdb
+C:\Users\Albert\Desktop\DI-Sample\DISample\DISample\obj\Debug\DISample.exe
+C:\Users\Albert\Desktop\DI-Sample\DISample\DISample\obj\Debug\DISample.pdb
